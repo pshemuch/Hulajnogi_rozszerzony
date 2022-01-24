@@ -18,6 +18,9 @@ clear all; clc;
 %     tabele z parametrami poszczególnych stacji oraz tabela informująca 
 %     o wykorzystaniu stacji przez poszczególne lokalizacje.
 
+
+%     Jeśli wprowadzane są dane we współrzędnych geograficznych to należy
+%     zmienić zmienną "dane" na 3 (linia 27)
 %% Preprocessing
 clc
 
